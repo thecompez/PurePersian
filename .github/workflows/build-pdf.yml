@@ -1,0 +1,49 @@
+name: Build Persian PDF
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "persian.tex"
+      - "adverbs.tex"
+      - ".github/workflows/build-pdf.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  pdf:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout sources
+        uses: actions/checkout@v4
+
+      - name: Install XeLaTeX and Persian fonts
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends texlive-xetex texlive-lang-arabic fonts-hosny-amiri poppler-utils
+
+      - name: Compile book
+        run: |
+          xelatex -interaction=nonstopmode -halt-on-error -file-line-error persian.tex
+          xelatex -interaction=nonstopmode -halt-on-error -file-line-error persian.tex
+          pdfinfo persian.pdf
+          test -s persian.pdf
+
+      - name: Upload compiled PDF
+        uses: actions/upload-artifact@v4
+        with:
+          name: purepersian-pdf
+          path: persian.pdf
+
+      - name: Keep tracked PDF synchronized
+        if: github.event_name == 'push'
+        run: |
+          git add persian.pdf
+          if ! git diff --cached --quiet; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git commit -m "docs: regenerate Persian PDF from LaTeX sources"
+            git push
+          fi
