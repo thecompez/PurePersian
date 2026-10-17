@@ -31,5 +31,18 @@ jobs:
         run: python tools/export_lexicon.py --check
       - name: Compile Python source
         run: python -m compileall -q purepersian_mcp tools tests
+      - name: Verify release wheel includes the lexical data
+        run: |
+          python -m pip wheel --no-deps . -w dist
+          python - <<'PY'
+          from pathlib import Path
+          from zipfile import ZipFile
+          wheels = list(Path("dist").glob("*.whl"))
+          assert len(wheels) == 1, wheels
+          with ZipFile(wheels[0]) as wheel:
+              assert "purepersian_mcp/lexicon.json" in wheel.namelist()
+              assert "purepersian_mcp/server.py" in wheel.namelist()
+          PY
+
       - name: Run unit and in-memory MCP protocol tests
         run: python -m unittest discover -s tests -v

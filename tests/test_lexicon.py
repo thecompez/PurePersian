@@ -62,6 +62,12 @@ class MCPProtocolTests(unittest.IsolatedAsyncioTestCase):
             scanned = await client.call_tool("inspect_text", {"text": "قطعاً، برای نمونه."})
             self.assertFalse(scanned.is_error)
             self.assertFalse(scanned.structured_content["auto_rewritten"])
+            resources = await client.list_resources()
+            resource_uris = {str(resource.uri) for resource in resources.resources}
+            self.assertIn("purepersian://guide", resource_uris)
+            self.assertIn("purepersian://stats", resource_uris)
+            prompts = await client.list_prompts()
+            self.assertIn("context_aware_rewrite", {prompt.name for prompt in prompts.prompts})
 
 
 if __name__ == "__main__":
