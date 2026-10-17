@@ -1,0 +1,19 @@
+# PurePersian — Persian lexical proposals for AI agents
+
+> Machine-readable Persian glossary; suggestions need human/contextual review.
+
+Project: https://github.com/thecompez/PurePersian
+Agent policy: https://github.com/thecompez/PurePersian/blob/main/AGENTS.md
+MCP implementation: https://github.com/thecompez/PurePersian/blob/main/purepersian_mcp/server.py
+Data (JSON): https://github.com/thecompez/PurePersian/blob/main/purepersian_mcp/lexicon.json
+Authoritative data: persian.tex and adverbs.tex
+Schema: 1.0.0
+MCP Python SDK: >=2,<3; transport: stdio; no remote host required.
+MCP tools: lookup_term, search_terms, list_categories, glossary_stats, inspect_text.
+MCP resources: purepersian://guide, purepersian://stats.
+MCP prompt: context_aware_rewrite.
+
+## Safety and semantics
+There is no automatic rewriting. Alternatives are context-dependent, not certified synonyms.
+Check each term's usage and source. Legacy rows need further editorial review.
+Keep proper names and technical terms, preserve certainty, modality, register, and intent.

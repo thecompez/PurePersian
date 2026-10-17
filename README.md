@@ -57,14 +57,61 @@
 
 ## ساخت PDF
 
-منبع اصلی **`persian.tex`** است و فصل قیدها از **`adverbs.tex`** خوانده می‌شود. برای ساخت محلی به XeLaTeX، بسته‌های `polyglossia`، `bidi` و `longtable` و قلم `Amiri` (یا `Farhang2`) نیاز دارید:
+منبع اصلی **`persian.tex`** است و فصل قیدها از **`adverbs.tex`** خوانده می‌شود. برای ساخت محلی به XeLaTeX، بسته‌های `polyglossia`، `bidi` و `longtable` و قلم **Vazirmatn (وزیرمتن)** نیاز دارید:
 
 ```sh
 xelatex -interaction=nonstopmode -halt-on-error persian.tex
 xelatex -interaction=nonstopmode -halt-on-error persian.tex
 ```
 
-گردش‌کار GitHub Actions پس از دگرگونی منبع، PDF را می‌سازد و در صورت داشتن دسترسی لازم، `persian.pdf` را نیز در مخزن همگام می‌کند.
+گردش‌کار GitHub Actions نسخهٔ ثابت `v33.003` قلم [وزیرمتن](https://github.com/rastikerdar/vazirmatn) (با مجوز SIL OFL 1.1) را هنگام ساخت دریافت می‌کند؛ هیچ پروندهٔ قلمی به مخزن افزوده نشده است. سپس PDF را می‌سازد و در صورت داشتن دسترسی لازم، `persian.pdf` را نیز در مخزن همگام می‌کند.
+
+---
+
+## استفاده با MCP و عامل‌های هوش مصنوعی
+
+این مخزن افزون بر کتابچه، یک **سرور محلی، فقط‌خواندنی MCP** و واژه‌نامهٔ ساخت‌یافته با ۲۵۵ مدخل در ۲۳ دسته دارد. سرور از نسخهٔ ۲ کتابخانهٔ رسمی Python MCP و ارتباط \`stdio\` بهره می‌برد و نیازی به کلید API یا سرویس بیرونی ندارد.
+
+### راه‌اندازی سریع
+
+با نصب [uv](https://docs.astral.sh/uv/) می‌توانید بدون کلون کردن مخزن سرور را اجرا کنید:
+
+\`\`\`sh
+uvx --from "git+https://github.com/thecompez/PurePersian.git" purepersian-mcp
+\`\`\`
+
+سرور هنگام اجرای مستقیم در ترمینال، منتظر پیام‌های پروتکل MCP روی stdin می‌ماند؛ این **رفتار طبیعی** است. برای اتصال در برنامه‌های پشتیبان MCP، فایل [\`.mcp.json\`](.mcp.json) نمونهٔ پیکربندی است. اگر نرم‌افزار شما فایل تنظیمات مستقلی دارد، کلیدهای \`command\` و \`args\` آن را کپی کنید. در محیط‌های بدون دسترسی شبکه، مخزن را از پیش نصب کنید:
+
+\`\`\`sh
+python -m pip install .
+purepersian-mcp
+\`\`\`
+
+### ابزارهای Agent
+
+| ابزار | کاربرد |
+|---|---|
+| \`lookup_term\` | یافتن مدخل دقیق و جست‌وجوی معکوس برابرها، همراه با تمایز معنایی |
+| \`search_terms\` | جست‌وجو بر پایهٔ واژه، برابر فارسی، انگلیسی یا توضیح کاربرد |
+| \`list_categories\` | فهرست بخش‌های واژه‌نامه |
+| \`glossary_stats\` | شمار واژه‌ها، دسته‌ها و نسخهٔ داده |
+| \`inspect_text\` | مشخص‌کردن پیشنهادهای احتمالی در متن، **بدون بازنویسی خودکار** |
+
+منابع MCP: \`purepersian://guide\` و \`purepersian://stats\`. یک Prompt با نام \`context_aware_rewrite\` نیز شیوهٔ بازنویسی با حفظ معنا را به عامل توضیح می‌دهد.
+
+راهنمای ویژهٔ عامل‌ها: [AGENTS.md](AGENTS.md)، [llms.txt](llms.txt) و [SKILL.md](.agents/skills/purepersian/SKILL.md).
+
+### دادهٔ ساخت‌یافته و آزمایش
+
+فایل [\`purepersian_mcp/lexicon.json\`](purepersian_mcp/lexicon.json) دادهٔ ساخته‌شده از هر دو فایل LaTeX است؛ شامل \`term\`، \`equivalents\`، \`english\`، \`usage\`، \`category\`، \`source\` و \`review_status\`. مدخل‌های قدیمی با \`legacy\` مشخص شده‌اند چون هنوز یک بازبینی جامع زبانی ندارند.
+
+\`\`\`sh
+python tools/export_lexicon.py
+python tools/export_lexicon.py --check
+python -m unittest discover -s tests -v
+\`\`\`
+
+اجرای آزمون‌های پروتکل MCP نیازمند نصب بسته است: \`python -m pip install -e .\`. GitHub Actions نیز سازگاری داده‌ها و ابزارها را می‌آزماید.
 
 ---
 

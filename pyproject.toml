@@ -10,10 +10,7 @@ readme = "README.md"
 requires-python = ">=3.11"
 license = { file = "LICENSE" }
 authors = [{ name = "PurePersian contributors" }]
-dependencies = []
-
-[project.optional-dependencies]
-mcp = ["mcp>=2,<3"]
+dependencies = ["mcp>=2,<3"]
 
 [project.scripts]
 purepersian-mcp = "purepersian_mcp.server:main"

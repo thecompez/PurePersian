@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "purepersian": {
+      "command": "uvx",
+      "args": [
+        "--from",
+        "git+https://github.com/thecompez/PurePersian.git",
+        "purepersian-mcp"
+      ]
+    }
+  }
+}

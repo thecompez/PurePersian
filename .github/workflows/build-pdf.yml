@@ -22,13 +22,25 @@ jobs:
       - name: Install XeLaTeX and Persian fonts
         run: |
           sudo apt-get update
-          sudo apt-get install -y --no-install-recommends texlive-xetex texlive-lang-arabic fonts-hosny-amiri poppler-utils
+          sudo apt-get install -y --no-install-recommends texlive-xetex texlive-lang-arabic fontconfig poppler-utils curl
+
+      - name: Install pinned Vazirmatn (SIL OFL 1.1)
+        run: |
+          mkdir -p "$HOME/.local/share/fonts"
+          for weight in Regular Bold; do
+            curl --fail --show-error --silent --location --retry 3 \
+              "https://raw.githubusercontent.com/rastikerdar/vazirmatn/v33.003/fonts/ttf/Vazirmatn-${weight}.ttf" \
+              --output "$HOME/.local/share/fonts/Vazirmatn-${weight}.ttf"
+          done
+          fc-cache -f "$HOME/.local/share/fonts"
+          fc-match -f '%{family}\n' 'Vazirmatn' | grep -F 'Vazirmatn'
 
       - name: Compile book
         run: |
           xelatex -interaction=nonstopmode -halt-on-error -file-line-error persian.tex
           xelatex -interaction=nonstopmode -halt-on-error -file-line-error persian.tex
           pdfinfo persian.pdf
+          pdffonts persian.pdf | grep -i 'Vazirmatn'
           test -s persian.pdf
 
       - name: Upload compiled PDF
