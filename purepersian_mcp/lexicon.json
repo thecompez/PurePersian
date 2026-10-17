@@ -1,0 +1,3201 @@
+{
+  "schema_version": "1.0.0",
+  "language": "fa",
+  "source_of_truth": [
+    "persian.tex",
+    "adverbs.tex"
+  ],
+  "disclaimer": "برابرها پیشنهادهای وابسته به بافت‌اند، نه دستورهای جایگزینی خودکار. مدخل‌های قدیمی هنوز نیازمند بازبینی واژه‌شناختی هستند.",
+  "entries": [
+    {
+      "id": "main:۱. واژه‌های تأکیدی و نفی:اصلاً",
+      "term": "اصلاً",
+      "equivalents": [
+        "از پایه",
+        "به‌هیچ‌روی"
+      ],
+      "english": "At all",
+      "usage": "بر پایهٔ بافت؛ «هرگز» برای نفی در زمان است",
+      "category": "۱. واژه‌های تأکیدی و نفی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۱. واژه‌های تأکیدی و نفی:أبداً",
+      "term": "أبداً",
+      "equivalents": [
+        "هرگز",
+        "هیچ‌گاه"
+      ],
+      "english": "Never",
+      "usage": "برای نفی رخداد در همهٔ زمان‌ها",
+      "category": "۱. واژه‌های تأکیدی و نفی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۱. واژه‌های تأکیدی و نفی:حتماً",
+      "term": "حتماً",
+      "equivalents": [
+        "بی‌گمان",
+        "بی‌بروبرگرد"
+      ],
+      "english": "Definitely",
+      "usage": "برای تأکید؛ «ناچار» به اجبار اشاره دارد",
+      "category": "۱. واژه‌های تأکیدی و نفی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۱. واژه‌های تأکیدی و نفی:قطعاً",
+      "term": "قطعاً",
+      "equivalents": [
+        "بی‌گمان",
+        "بی‌تردید"
+      ],
+      "english": "Certainly",
+      "usage": "تأکید قوی",
+      "category": "۱. واژه‌های تأکیدی و نفی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۱. واژه‌های تأکیدی و نفی:اکیداً",
+      "term": "اکیداً",
+      "equivalents": [
+        "به‌شدت",
+        "سخت"
+      ],
+      "english": "Strongly",
+      "usage": "دستور، توصیه",
+      "category": "۱. واژه‌های تأکیدی و نفی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۱. واژه‌های تأکیدی و نفی:الزاماً",
+      "term": "الزاماً",
+      "equivalents": [
+        "به‌ناگزیر",
+        "ناچار"
+      ],
+      "english": "Necessarily",
+      "usage": "برای ضرورت منطقی؛ در نفی باید بافت را سنجید",
+      "category": "۱. واژه‌های تأکیدی و نفی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۱. واژه‌های تأکیدی و نفی:فقط",
+      "term": "فقط",
+      "equivalents": [
+        "تنها"
+      ],
+      "english": "Only",
+      "usage": "محدودیت",
+      "category": "۱. واژه‌های تأکیدی و نفی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۲. واژه‌های تقریبی و مثالی:مثلاً",
+      "term": "مثلاً",
+      "equivalents": [
+        "برای نمونه"
+      ],
+      "english": "For example",
+      "usage": "آوردن نمونه؛ «چنان‌که» همیشه هم‌معنا نیست",
+      "category": "۲. واژه‌های تقریبی و مثالی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۲. واژه‌های تقریبی و مثالی:تقریباً",
+      "term": "تقریباً",
+      "equivalents": [
+        "نزدیک به",
+        "کمابیش",
+        "در حدود"
+      ],
+      "english": "Approximately",
+      "usage": "اندازه یا مقدار نزدیک به یک عدد",
+      "category": "۲. واژه‌های تقریبی و مثالی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۲. واژه‌های تقریبی و مثالی:عمدتاً",
+      "term": "عمدتاً",
+      "equivalents": [
+        "بیشتر",
+        "بیش از همه"
+      ],
+      "english": "Mostly",
+      "usage": "برای سهم یا بخش عمده",
+      "category": "۲. واژه‌های تقریبی و مثالی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۲. واژه‌های تقریبی و مثالی:برخی",
+      "term": "برخی",
+      "equivalents": [
+        "بخشی",
+        "تعدادی از"
+      ],
+      "english": "Some",
+      "usage": "نمونه محدود",
+      "category": "۲. واژه‌های تقریبی و مثالی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۲. واژه‌های تقریبی و مثالی:حداکثر",
+      "term": "حداکثر",
+      "equivalents": [
+        "بیشینه"
+      ],
+      "english": "Maximum",
+      "usage": "حد بالاتر",
+      "category": "۲. واژه‌های تقریبی و مثالی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۲. واژه‌های تقریبی و مثالی:حداقل",
+      "term": "حداقل",
+      "equivalents": [
+        "کمینه"
+      ],
+      "english": "Minimum",
+      "usage": "حد پایین‌تر",
+      "category": "۲. واژه‌های تقریبی و مثالی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۳. واژه‌های زمان و مکان:اول",
+      "term": "اول",
+      "equivalents": [
+        "نخست"
+      ],
+      "english": "First",
+      "usage": "ترتیب",
+      "category": "۳. واژه‌های زمان و مکان",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۳. واژه‌های زمان و مکان:آخر",
+      "term": "آخر",
+      "equivalents": [
+        "پایان"
+      ],
+      "english": "Last",
+      "usage": "ترتیب",
+      "category": "۳. واژه‌های زمان و مکان",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۳. واژه‌های زمان و مکان:قبل",
+      "term": "قبل",
+      "equivalents": [
+        "پیش"
+      ],
+      "english": "Before",
+      "usage": "زمان",
+      "category": "۳. واژه‌های زمان و مکان",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۳. واژه‌های زمان و مکان:بعد",
+      "term": "بعد",
+      "equivalents": [
+        "پس"
+      ],
+      "english": "After",
+      "usage": "زمان",
+      "category": "۳. واژه‌های زمان و مکان",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۳. واژه‌های زمان و مکان:همیشه",
+      "term": "همیشه",
+      "equivalents": [
+        "همواره"
+      ],
+      "english": "Always",
+      "usage": "زمان مداوم",
+      "category": "۳. واژه‌های زمان و مکان",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۳. واژه‌های زمان و مکان:اکنون",
+      "term": "اکنون",
+      "equivalents": [
+        "هم‌اکنون",
+        "کنون"
+      ],
+      "english": "Now",
+      "usage": "زمان حال",
+      "category": "۳. واژه‌های زمان و مکان",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۳. واژه‌های زمان و مکان:دیر",
+      "term": "دیر",
+      "equivalents": [
+        "پس از موعد",
+        "با تأخیر"
+      ],
+      "english": "Late",
+      "usage": "زمان دیرهنگام",
+      "category": "۳. واژه‌های زمان و مکان",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۳. واژه‌های زمان و مکان:زود",
+      "term": "زود",
+      "equivalents": [
+        "پیش از موعد",
+        "به‌سرعت"
+      ],
+      "english": "Early",
+      "usage": "زمان سریع",
+      "category": "۳. واژه‌های زمان و مکان",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۳. واژه‌های زمان و مکان:همزمان",
+      "term": "همزمان",
+      "equivalents": [
+        "هم‌زمان",
+        "در یک زمان"
+      ],
+      "english": "Simultaneously",
+      "usage": "رخداد دو کار در یک زمان",
+      "category": "۳. واژه‌های زمان و مکان",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۴. واژه‌های اجتماعی و اداری:حکومت",
+      "term": "حکومت",
+      "equivalents": [
+        "فرمانروایی"
+      ],
+      "english": "Government",
+      "usage": "اداره کشور",
+      "category": "۴. واژه‌های اجتماعی و اداری",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۴. واژه‌های اجتماعی و اداری:دولت",
+      "term": "دولت",
+      "equivalents": [
+        "کشوربانی"
+      ],
+      "english": "State",
+      "usage": "اداره کشور",
+      "category": "۴. واژه‌های اجتماعی و اداری",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۴. واژه‌های اجتماعی و اداری:ملت",
+      "term": "ملت",
+      "equivalents": [
+        "مردم",
+        "توده"
+      ],
+      "english": "Nation",
+      "usage": "مردم",
+      "category": "۴. واژه‌های اجتماعی و اداری",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۴. واژه‌های اجتماعی و اداری:جامعه",
+      "term": "جامعه",
+      "equivalents": [
+        "همبود"
+      ],
+      "english": "Society",
+      "usage": "جمعیت، اجتماع",
+      "category": "۴. واژه‌های اجتماعی و اداری",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۴. واژه‌های اجتماعی و اداری:قانون",
+      "term": "قانون",
+      "equivalents": [
+        "آیین"
+      ],
+      "english": "Law",
+      "usage": "مقررات",
+      "category": "۴. واژه‌های اجتماعی و اداری",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۴. واژه‌های اجتماعی و اداری:عدالت",
+      "term": "عدالت",
+      "equivalents": [
+        "داد"
+      ],
+      "english": "Justice",
+      "usage": "انصاف",
+      "category": "۴. واژه‌های اجتماعی و اداری",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۴. واژه‌های اجتماعی و اداری:آزادی",
+      "term": "آزادی",
+      "equivalents": [
+        "آزادی"
+      ],
+      "english": "Freedom",
+      "usage": "حق و اختیار",
+      "category": "۴. واژه‌های اجتماعی و اداری",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۴. واژه‌های اجتماعی و اداری:فرهنگ",
+      "term": "فرهنگ",
+      "equivalents": [
+        "هنر و سنّت"
+      ],
+      "english": "Culture",
+      "usage": "رسوم و هنر",
+      "category": "۴. واژه‌های اجتماعی و اداری",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۴. واژه‌های اجتماعی و اداری:مدیریت",
+      "term": "مدیریت",
+      "equivalents": [
+        "گردانندگی"
+      ],
+      "english": "Management",
+      "usage": "اداره سازمان",
+      "category": "۴. واژه‌های اجتماعی و اداری",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۴. واژه‌های اجتماعی و اداری:سیاست",
+      "term": "سیاست",
+      "equivalents": [
+        "کشورداری"
+      ],
+      "english": "Politics",
+      "usage": "اداره کشور",
+      "category": "۴. واژه‌های اجتماعی و اداری",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۴. واژه‌های اجتماعی و اداری:اقتصاد",
+      "term": "اقتصاد",
+      "equivalents": [
+        "کارمایه",
+        "بازرگانی"
+      ],
+      "english": "Economy",
+      "usage": "فعالیت مالی",
+      "category": "۴. واژه‌های اجتماعی و اداری",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۴. واژه‌های اجتماعی و اداری:مدرسه",
+      "term": "مدرسه",
+      "equivalents": [
+        "آموزشگاه"
+      ],
+      "english": "School",
+      "usage": "آموزش و یادگیری",
+      "category": "۴. واژه‌های اجتماعی و اداری",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۵. واژه‌های فکری و انتزاعی:عقل",
+      "term": "عقل",
+      "equivalents": [
+        "خرد"
+      ],
+      "english": "Intellect",
+      "usage": "تفکر، خرد",
+      "category": "۵. واژه‌های فکری و انتزاعی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۵. واژه‌های فکری و انتزاعی:فکر",
+      "term": "فکر",
+      "equivalents": [
+        "اندیشه"
+      ],
+      "english": "Thought",
+      "usage": "اندیشه",
+      "category": "۵. واژه‌های فکری و انتزاعی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۵. واژه‌های فکری و انتزاعی:حقیقت",
+      "term": "حقیقت",
+      "equivalents": [
+        "راستی"
+      ],
+      "english": "Truth",
+      "usage": "واقعیت",
+      "category": "۵. واژه‌های فکری و انتزاعی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۵. واژه‌های فکری و انتزاعی:ایمان",
+      "term": "ایمان",
+      "equivalents": [
+        "باور"
+      ],
+      "english": "Faith",
+      "usage": "باور",
+      "category": "۵. واژه‌های فکری و انتزاعی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۵. واژه‌های فکری و انتزاعی:اخلاق",
+      "term": "اخلاق",
+      "equivalents": [
+        "خوی"
+      ],
+      "english": "Morality",
+      "usage": "رفتار و خوی",
+      "category": "۵. واژه‌های فکری و انتزاعی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۵. واژه‌های فکری و انتزاعی:نتیجه",
+      "term": "نتیجه",
+      "equivalents": [
+        "فرجام"
+      ],
+      "english": "Result",
+      "usage": "پیامد",
+      "category": "۵. واژه‌های فکری و انتزاعی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۵. واژه‌های فکری و انتزاعی:نقش",
+      "term": "نقش",
+      "equivalents": [
+        "کارکرد"
+      ],
+      "english": "Role",
+      "usage": "کارکرد",
+      "category": "۵. واژه‌های فکری و انتزاعی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۵. واژه‌های فکری و انتزاعی:روش",
+      "term": "روش",
+      "equivalents": [
+        "راه"
+      ],
+      "english": "Method",
+      "usage": "روش انجام",
+      "category": "۵. واژه‌های فکری و انتزاعی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۵. واژه‌های فکری و انتزاعی:عملکرد",
+      "term": "عملکرد",
+      "equivalents": [
+        "کارکرد"
+      ],
+      "english": "Performance",
+      "usage": "فعالیت انجام شده",
+      "category": "۵. واژه‌های فکری و انتزاعی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۵. واژه‌های فکری و انتزاعی:تغییر",
+      "term": "تغییر",
+      "equivalents": [
+        "دگرگونی"
+      ],
+      "english": "Change",
+      "usage": "دگرگونی",
+      "category": "۵. واژه‌های فکری و انتزاعی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۵. واژه‌های فکری و انتزاعی:ذهن",
+      "term": "ذهن",
+      "equivalents": [
+        "اندیشه‌گاه"
+      ],
+      "english": "Mind",
+      "usage": "مرکز اندیشه",
+      "category": "۵. واژه‌های فکری و انتزاعی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۶. واژه‌های روزمره و طبیعت:انسان",
+      "term": "انسان",
+      "equivalents": [
+        "آدمی"
+      ],
+      "english": "Human",
+      "usage": "موجود زنده",
+      "category": "۶. واژه‌های روزمره و طبیعت",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۶. واژه‌های روزمره و طبیعت:وطن",
+      "term": "وطن",
+      "equivalents": [
+        "میهن"
+      ],
+      "english": "Homeland",
+      "usage": "سرزمین",
+      "category": "۶. واژه‌های روزمره و طبیعت",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۶. واژه‌های روزمره و طبیعت:خانواده",
+      "term": "خانواده",
+      "equivalents": [
+        "خاندان"
+      ],
+      "english": "Family",
+      "usage": "گروه خانوادگی",
+      "category": "۶. واژه‌های روزمره و طبیعت",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۶. واژه‌های روزمره و طبیعت:غذا",
+      "term": "غذا",
+      "equivalents": [
+        "خوراک"
+      ],
+      "english": "Food",
+      "usage": "خوردنی",
+      "category": "۶. واژه‌های روزمره و طبیعت",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۶. واژه‌های روزمره و طبیعت:بدن",
+      "term": "بدن",
+      "equivalents": [
+        "تن"
+      ],
+      "english": "Body",
+      "usage": "جسم انسان",
+      "category": "۶. واژه‌های روزمره و طبیعت",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۶. واژه‌های روزمره و طبیعت:زمین",
+      "term": "زمین",
+      "equivalents": [
+        "زمین",
+        "کرهٔ زمین"
+      ],
+      "english": "Earth",
+      "usage": "زمین با «گیتی» به معنی جهان یکسان نیست",
+      "category": "۶. واژه‌های روزمره و طبیعت",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۶. واژه‌های روزمره و طبیعت:هوا",
+      "term": "هوا",
+      "equivalents": [
+        "هوا",
+        "هوای پیرامون"
+      ],
+      "english": "Air",
+      "usage": "«باد» حرکت هواست و برابر خود هوا نیست",
+      "category": "۶. واژه‌های روزمره و طبیعت",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۶. واژه‌های روزمره و طبیعت:قلب",
+      "term": "قلب",
+      "equivalents": [
+        "دل"
+      ],
+      "english": "Heart",
+      "usage": "«دل» در زبان عمومی؛ در پزشکی «قلب» دقیق‌تر است",
+      "category": "۶. واژه‌های روزمره و طبیعت",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۶. واژه‌های روزمره و طبیعت:روح",
+      "term": "روح",
+      "equivalents": [
+        "جان"
+      ],
+      "english": "Soul",
+      "usage": "جوهره زندگی",
+      "category": "۶. واژه‌های روزمره و طبیعت",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۶. واژه‌های روزمره و طبیعت:کتاب",
+      "term": "کتاب",
+      "equivalents": [
+        "کتاب",
+        "نوشتار بلند"
+      ],
+      "english": "Book",
+      "usage": "«نامه» در فارسی امروز بیشتر به معنی مکاتبه است",
+      "category": "۶. واژه‌های روزمره و طبیعت",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۶. واژه‌های روزمره و طبیعت:جمله",
+      "term": "جمله",
+      "equivalents": [
+        "جمله",
+        "گزاره"
+      ],
+      "english": "Sentence",
+      "usage": "ساختار دستوری؛ «گفتار» کلی‌تر است",
+      "category": "۶. واژه‌های روزمره و طبیعت",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۶. واژه‌های روزمره و طبیعت:کلمه",
+      "term": "کلمه",
+      "equivalents": [
+        "واژه"
+      ],
+      "english": "Word",
+      "usage": "واحد معنایی",
+      "category": "۶. واژه‌های روزمره و طبیعت",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۶. واژه‌های روزمره و طبیعت:معنی",
+      "term": "معنی",
+      "equivalents": [
+        "چَم"
+      ],
+      "english": "Meaning",
+      "usage": "مفهوم",
+      "category": "۶. واژه‌های روزمره و طبیعت",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۶. واژه‌های روزمره و طبیعت:خط",
+      "term": "خط",
+      "equivalents": [
+        "نوشتار"
+      ],
+      "english": "Script",
+      "usage": "نوشتن",
+      "category": "۶. واژه‌های روزمره و طبیعت",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۶. واژه‌های روزمره و طبیعت:امضا",
+      "term": "امضا",
+      "equivalents": [
+        "دست‌نوشته",
+        "مهر"
+      ],
+      "english": "Signature",
+      "usage": "تأیید نوشتار",
+      "category": "۶. واژه‌های روزمره و طبیعت",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۶. واژه‌های روزمره و طبیعت:عنوان",
+      "term": "عنوان",
+      "equivalents": [
+        "سرنویس"
+      ],
+      "english": "Title",
+      "usage": "سرنام",
+      "category": "۶. واژه‌های روزمره و طبیعت",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۶. واژه‌های روزمره و طبیعت:دنیا",
+      "term": "دنیا",
+      "equivalents": [
+        "جهان"
+      ],
+      "english": "World",
+      "usage": "جهان هستی",
+      "category": "۶. واژه‌های روزمره و طبیعت",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۷. واژه‌های آموزشی و علمی:دانش",
+      "term": "دانش",
+      "equivalents": [
+        "دانش"
+      ],
+      "english": "Knowledge",
+      "usage": "واژه‌ای فارسی؛ «آگاهی» همیشه هم‌معنای دانش نیست",
+      "category": "۷. واژه‌های آموزشی و علمی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۷. واژه‌های آموزشی و علمی:آموزش",
+      "term": "آموزش",
+      "equivalents": [
+        "آموزاندن",
+        "آموزش"
+      ],
+      "english": "Education",
+      "usage": "فرایند آموزش؛ «یادگیری» از سوی فراگیر است",
+      "category": "۷. واژه‌های آموزشی و علمی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۷. واژه‌های آموزشی و علمی:تحقیق",
+      "term": "تحقیق",
+      "equivalents": [
+        "پژوهش"
+      ],
+      "english": "Research",
+      "usage": "بررسی علمی",
+      "category": "۷. واژه‌های آموزشی و علمی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۷. واژه‌های آموزشی و علمی:کتابخانه",
+      "term": "کتابخانه",
+      "equivalents": [
+        "کتابخانه"
+      ],
+      "english": "Library",
+      "usage": "نام جاافتاده؛ «خانه‌نامه‌ها» برابر روشنی نیست",
+      "category": "۷. واژه‌های آموزشی و علمی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۷. واژه‌های آموزشی و علمی:درس",
+      "term": "درس",
+      "equivalents": [
+        "مبحث"
+      ],
+      "english": "Lesson",
+      "usage": "مبحث آموزشی",
+      "category": "۷. واژه‌های آموزشی و علمی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۷. واژه‌های آموزشی و علمی:معلم",
+      "term": "معلم",
+      "equivalents": [
+        "آموزگار"
+      ],
+      "english": "Teacher",
+      "usage": "تدریس کننده",
+      "category": "۷. واژه‌های آموزشی و علمی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۷. واژه‌های آموزشی و علمی:دانشجو",
+      "term": "دانشجو",
+      "equivalents": [
+        "دانش‌پژوه"
+      ],
+      "english": "Student",
+      "usage": "فردی که در آموزش عالی درس می‌خواند",
+      "category": "۷. واژه‌های آموزشی و علمی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۷. واژه‌های آموزشی و علمی:امتحان",
+      "term": "امتحان",
+      "equivalents": [
+        "سنجش"
+      ],
+      "english": "Exam",
+      "usage": "ارزیابی یادگیری",
+      "category": "۷. واژه‌های آموزشی و علمی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۷. واژه‌های آموزشی و علمی:پژوهش",
+      "term": "پژوهش",
+      "equivalents": [
+        "جستار"
+      ],
+      "english": "Study",
+      "usage": "بررسی علمی",
+      "category": "۷. واژه‌های آموزشی و علمی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۷. واژه‌های آموزشی و علمی:مفهوم",
+      "term": "مفهوم",
+      "equivalents": [
+        "معنا"
+      ],
+      "english": "Concept",
+      "usage": "ایده یا معنا",
+      "category": "۷. واژه‌های آموزشی و علمی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۷. واژه‌های آموزشی و علمی:آزمون",
+      "term": "آزمون",
+      "equivalents": [
+        "سنجش"
+      ],
+      "english": "Test",
+      "usage": "ابزار سنجش",
+      "category": "۷. واژه‌های آموزشی و علمی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۸. واژه‌های اقتصادی و مالی:سرمایه",
+      "term": "سرمایه",
+      "equivalents": [
+        "مایه",
+        "سرمایه"
+      ],
+      "english": "Capital",
+      "usage": "منابع به‌کارگرفته‌شده؛ با همهٔ دارایی‌ها یکسان نیست",
+      "category": "۸. واژه‌های اقتصادی و مالی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۸. واژه‌های اقتصادی و مالی:بانک",
+      "term": "بانک",
+      "equivalents": [
+        "بانک"
+      ],
+      "english": "Bank",
+      "usage": "نهاد مالی مشخص؛ هر صندوقی بانک نیست",
+      "category": "۸. واژه‌های اقتصادی و مالی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۸. واژه‌های اقتصادی و مالی:بازار",
+      "term": "بازار",
+      "equivalents": [
+        "دادوستدگاه"
+      ],
+      "english": "Market",
+      "usage": "محل خرید و فروش",
+      "category": "۸. واژه‌های اقتصادی و مالی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۸. واژه‌های اقتصادی و مالی:مالیات",
+      "term": "مالیات",
+      "equivalents": [
+        "مالیات"
+      ],
+      "english": "Tax",
+      "usage": "اصطلاح مالی امروز؛ «خراج» تاریخی و متفاوت است",
+      "category": "۸. واژه‌های اقتصادی و مالی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۸. واژه‌های اقتصادی و مالی:تجارت",
+      "term": "تجارت",
+      "equivalents": [
+        "دادوستد"
+      ],
+      "english": "Trade",
+      "usage": "دادوستد کالا",
+      "category": "۸. واژه‌های اقتصادی و مالی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۸. واژه‌های اقتصادی و مالی:کسب و کار",
+      "term": "کسب و کار",
+      "equivalents": [
+        "کار و پیشه",
+        "کسب‌وکار"
+      ],
+      "english": "Business",
+      "usage": "کار اقتصادی؛ «کارما» این معنا را نمی‌رساند",
+      "category": "۸. واژه‌های اقتصادی و مالی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۸. واژه‌های اقتصادی و مالی:سود",
+      "term": "سود",
+      "equivalents": [
+        "سود",
+        "بازده"
+      ],
+      "english": "Profit",
+      "usage": "سود با بهرهٔ وام یکسان نیست",
+      "category": "۸. واژه‌های اقتصادی و مالی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۸. واژه‌های اقتصادی و مالی:زیان",
+      "term": "زیان",
+      "equivalents": [
+        "زیان",
+        "آسیب مالی"
+      ],
+      "english": "Loss",
+      "usage": "خسارت ممکن است معنی حقوقی ویژه داشته باشد",
+      "category": "۸. واژه‌های اقتصادی و مالی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۸. واژه‌های اقتصادی و مالی:تراکنش",
+      "term": "تراکنش",
+      "equivalents": [
+        "تراکنش",
+        "جابه‌جایی ثبت‌شده"
+      ],
+      "english": "Transaction",
+      "usage": "در سامانه‌ها هر تراکنش دادوستد نیست",
+      "category": "۸. واژه‌های اقتصادی و مالی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۸. واژه‌های اقتصادی و مالی:وام",
+      "term": "وام",
+      "equivalents": [
+        "وام"
+      ],
+      "english": "Loan",
+      "usage": "واژهٔ فارسی و دقیق در امور مالی",
+      "category": "۸. واژه‌های اقتصادی و مالی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۹. واژه‌های فناوری، بلاک‌چین و برنامه‌نویسی:فناوری",
+      "term": "فناوری",
+      "equivalents": [
+        "هنرکده",
+        "هنرپردازش"
+      ],
+      "english": "Technology",
+      "usage": "علم و مهارت کاربردی",
+      "category": "۹. واژه‌های فناوری، بلاک‌چین و برنامه‌نویسی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۹. واژه‌های فناوری، بلاک‌چین و برنامه‌نویسی:کامپیوتر",
+      "term": "کامپیوتر",
+      "equivalents": [
+        "رایانه"
+      ],
+      "english": "Computer",
+      "usage": "دستگاه پردازش داده",
+      "category": "۹. واژه‌های فناوری، بلاک‌چین و برنامه‌نویسی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۹. واژه‌های فناوری، بلاک‌چین و برنامه‌نویسی:برنامه",
+      "term": "برنامه",
+      "equivalents": [
+        "نرم‌افزار"
+      ],
+      "english": "Software",
+      "usage": "مجموعه دستورها",
+      "category": "۹. واژه‌های فناوری، بلاک‌چین و برنامه‌نویسی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۹. واژه‌های فناوری، بلاک‌چین و برنامه‌نویسی:اپلیکیشن",
+      "term": "اپلیکیشن",
+      "equivalents": [
+        "نرم‌افزار"
+      ],
+      "english": "Application",
+      "usage": "برنامهٔ موبایل یا دسکتاپ",
+      "category": "۹. واژه‌های فناوری، بلاک‌چین و برنامه‌نویسی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۹. واژه‌های فناوری، بلاک‌چین و برنامه‌نویسی:رمزنگاری",
+      "term": "رمزنگاری",
+      "equivalents": [
+        "رمزگذاری",
+        "رمزنگاری"
+      ],
+      "english": "Encryption",
+      "usage": "با «نهان‌نگاری» (پنهان‌سازی وجود پیام) متفاوت است",
+      "category": "۹. واژه‌های فناوری، بلاک‌چین و برنامه‌نویسی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۹. واژه‌های فناوری، بلاک‌چین و برنامه‌نویسی:سرور",
+      "term": "سرور",
+      "equivalents": [
+        "پردازندهٔ میزبان"
+      ],
+      "english": "Server",
+      "usage": "کامپیوتر ارائه‌دهندهٔ خدمات شبکه",
+      "category": "۹. واژه‌های فناوری، بلاک‌چین و برنامه‌نویسی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۹. واژه‌های فناوری، بلاک‌چین و برنامه‌نویسی:دیتابیس",
+      "term": "دیتابیس",
+      "equivalents": [
+        "داده‌گاه",
+        "پایگاه داده"
+      ],
+      "english": "Database",
+      "usage": "محل ذخیرهٔ داده‌ها",
+      "category": "۹. واژه‌های فناوری، بلاک‌چین و برنامه‌نویسی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۹. واژه‌های فناوری، بلاک‌چین و برنامه‌نویسی:شبکه",
+      "term": "شبکه",
+      "equivalents": [
+        "پیوندگاه"
+      ],
+      "english": "Network",
+      "usage": "ارتباط بین رایانه‌ها",
+      "category": "۹. واژه‌های فناوری، بلاک‌چین و برنامه‌نویسی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۹. واژه‌های فناوری، بلاک‌چین و برنامه‌نویسی:داده",
+      "term": "داده",
+      "equivalents": [
+        "داده‌ها"
+      ],
+      "english": "Data",
+      "usage": "اطلاعات",
+      "category": "۹. واژه‌های فناوری، بلاک‌چین و برنامه‌نویسی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۹. واژه‌های فناوری، بلاک‌چین و برنامه‌نویسی:اینترنت",
+      "term": "اینترنت",
+      "equivalents": [
+        "شبکهٔ جهانی"
+      ],
+      "english": "Internet",
+      "usage": "شبکه جهانی",
+      "category": "۹. واژه‌های فناوری، بلاک‌چین و برنامه‌نویسی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۹. واژه‌های فناوری، بلاک‌چین و برنامه‌نویسی:وب",
+      "term": "وب",
+      "equivalents": [
+        "تار جهان‌گستر"
+      ],
+      "english": "Web",
+      "usage": "شبکهٔ اسناد پیونددار؛ «تارنما» برابر وب‌سایت است",
+      "category": "۹. واژه‌های فناوری، بلاک‌چین و برنامه‌نویسی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۹. واژه‌های فناوری، بلاک‌چین و برنامه‌نویسی:سیستم",
+      "term": "سیستم",
+      "equivalents": [
+        "سامانه"
+      ],
+      "english": "System",
+      "usage": "مجموعه مؤلفه‌ها",
+      "category": "۹. واژه‌های فناوری، بلاک‌چین و برنامه‌نویسی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۹. واژه‌های فناوری، بلاک‌چین و برنامه‌نویسی:کاربر",
+      "term": "کاربر",
+      "equivalents": [
+        "بهره‌بردار"
+      ],
+      "english": "User",
+      "usage": "استفاده‌کننده",
+      "category": "۹. واژه‌های فناوری، بلاک‌چین و برنامه‌نویسی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۹. واژه‌های فناوری، بلاک‌چین و برنامه‌نویسی:لایک",
+      "term": "لایک",
+      "equivalents": [
+        "پسند"
+      ],
+      "english": "Like",
+      "usage": "واکنش به محتوا",
+      "category": "۹. واژه‌های فناوری، بلاک‌چین و برنامه‌نویسی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۹. واژه‌های فناوری، بلاک‌چین و برنامه‌نویسی:کامنت",
+      "term": "کامنت",
+      "equivalents": [
+        "یادداشت"
+      ],
+      "english": "Comment",
+      "usage": "یادداشت کاربر",
+      "category": "۹. واژه‌های فناوری، بلاک‌چین و برنامه‌نویسی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۹. واژه‌های فناوری، بلاک‌چین و برنامه‌نویسی:فالوور",
+      "term": "فالوور",
+      "equivalents": [
+        "دنبال‌کننده"
+      ],
+      "english": "Follower",
+      "usage": "دنبال‌کننده محتوا",
+      "category": "۹. واژه‌های فناوری، بلاک‌چین و برنامه‌نویسی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۹. واژه‌های فناوری، بلاک‌چین و برنامه‌نویسی:اشتراک",
+      "term": "اشتراک",
+      "equivalents": [
+        "عضویت دوره‌ای",
+        "دسترسی اشتراکی"
+      ],
+      "english": "Subscription",
+      "usage": "با «هم‌رسانی» به معنی اشتراک‌گذاری تفاوت دارد",
+      "category": "۹. واژه‌های فناوری، بلاک‌چین و برنامه‌نویسی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۹. واژه‌های فناوری، بلاک‌چین و برنامه‌نویسی:بلاک‌چین",
+      "term": "بلاک‌چین",
+      "equivalents": [
+        "زنجیرهٔ بلوکی"
+      ],
+      "english": "Blockchain",
+      "usage": "دفتر کل توزیع‌شده",
+      "category": "۹. واژه‌های فناوری، بلاک‌چین و برنامه‌نویسی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۹. واژه‌های فناوری، بلاک‌چین و برنامه‌نویسی:رمزارز",
+      "term": "رمزارز",
+      "equivalents": [
+        "رمزارز",
+        "ارز رمزی"
+      ],
+      "english": "Cryptocurrency",
+      "usage": "همهٔ رمزارزها سکهٔ دیجیتال نیستند",
+      "category": "۹. واژه‌های فناوری، بلاک‌چین و برنامه‌نویسی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۹. واژه‌های فناوری، بلاک‌چین و برنامه‌نویسی:قرارداد هوشمند",
+      "term": "قرارداد هوشمند",
+      "equivalents": [
+        "پیمان هوشمند"
+      ],
+      "english": "Smart Contract",
+      "usage": "قرارداد خوداجرایی",
+      "category": "۹. واژه‌های فناوری، بلاک‌چین و برنامه‌نویسی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۹. واژه‌های فناوری، بلاک‌چین و برنامه‌نویسی:کد",
+      "term": "کد",
+      "equivalents": [
+        "برنامه",
+        "دستورنامه"
+      ],
+      "english": "Code",
+      "usage": "مجموعه دستورها",
+      "category": "۹. واژه‌های فناوری، بلاک‌چین و برنامه‌نویسی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۹. واژه‌های فناوری، بلاک‌چین و برنامه‌نویسی:کامپایلر",
+      "term": "کامپایلر",
+      "equivalents": [
+        "هم‌گردان"
+      ],
+      "english": "Compiler",
+      "usage": "برنامه ترجمه کد",
+      "category": "۹. واژه‌های فناوری، بلاک‌چین و برنامه‌نویسی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۹. واژه‌های فناوری، بلاک‌چین و برنامه‌نویسی:سورس",
+      "term": "سورس",
+      "equivalents": [
+        "منبع"
+      ],
+      "english": "Source",
+      "usage": "منبع برنامه",
+      "category": "۹. واژه‌های فناوری، بلاک‌چین و برنامه‌نویسی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۱۰. واژه‌های حقوقی و اداری:قرارداد",
+      "term": "قرارداد",
+      "equivalents": [
+        "پیمان"
+      ],
+      "english": "Contract",
+      "usage": "توافق رسمی و قانونی",
+      "category": "۱۰. واژه‌های حقوقی و اداری",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۱۰. واژه‌های حقوقی و اداری:مجازات",
+      "term": "مجازات",
+      "equivalents": [
+        "کیفر"
+      ],
+      "english": "Punishment",
+      "usage": "برخورد قانونی در برابر تخلف",
+      "category": "۱۰. واژه‌های حقوقی و اداری",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۱۰. واژه‌های حقوقی و اداری:قاضی",
+      "term": "قاضی",
+      "equivalents": [
+        "دادرس"
+      ],
+      "english": "Judge",
+      "usage": "داور با دادرسِ دادگاه یک نقش ندارد",
+      "category": "۱۰. واژه‌های حقوقی و اداری",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۱۱. واژه‌های علمی و پزشکی:بیمار",
+      "term": "بیمار",
+      "equivalents": [
+        "ناخوش"
+      ],
+      "english": "Patient",
+      "usage": "فردی که به درمان نیاز دارد",
+      "category": "۱۱. واژه‌های علمی و پزشکی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۱۱. واژه‌های علمی و پزشکی:درمان",
+      "term": "درمان",
+      "equivalents": [
+        "درمان"
+      ],
+      "english": "Treatment",
+      "usage": "فرایند رسیدگی به بیماری؛ «شفا» به بهبود اشاره دارد",
+      "category": "۱۱. واژه‌های علمی و پزشکی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۱۱. واژه‌های علمی و پزشکی:آزمایش",
+      "term": "آزمایش",
+      "equivalents": [
+        "سنجش"
+      ],
+      "english": "Test / Experiment",
+      "usage": "بررسی علمی یا پزشکی",
+      "category": "۱۱. واژه‌های علمی و پزشکی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۱۲. واژه‌های احساسی و روانی:نفرت",
+      "term": "نفرت",
+      "equivalents": [
+        "بیزاری"
+      ],
+      "english": "Hatred",
+      "usage": "احساس منفی",
+      "category": "۱۲. واژه‌های احساسی و روانی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۱۲. واژه‌های احساسی و روانی:خوشحال",
+      "term": "خوشحال",
+      "equivalents": [
+        "شاد"
+      ],
+      "english": "Happy",
+      "usage": "احساس مثبت",
+      "category": "۱۲. واژه‌های احساسی و روانی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۱۲. واژه‌های احساسی و روانی:غمگین",
+      "term": "غمگین",
+      "equivalents": [
+        "اندوهگین"
+      ],
+      "english": "Sad",
+      "usage": "احساس منفی",
+      "category": "۱۲. واژه‌های احساسی و روانی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۱۲. واژه‌های احساسی و روانی:ترس",
+      "term": "ترس",
+      "equivalents": [
+        "بیم"
+      ],
+      "english": "Fear",
+      "usage": "احساس ترس",
+      "category": "۱۲. واژه‌های احساسی و روانی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۱۲. واژه‌های احساسی و روانی:شجاعت",
+      "term": "شجاعت",
+      "equivalents": [
+        "دلیری"
+      ],
+      "english": "Courage",
+      "usage": "شجاعت و دلیری",
+      "category": "۱۲. واژه‌های احساسی و روانی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۱۲. واژه‌های احساسی و روانی:امید",
+      "term": "امید",
+      "equivalents": [
+        "امید",
+        "چشمداشت نیک"
+      ],
+      "english": "Hope",
+      "usage": "با «آرزو» هم‌پوشانی دارد، ولی یکی نیست",
+      "category": "۱۲. واژه‌های احساسی و روانی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۱۲. واژه‌های احساسی و روانی:اعتماد",
+      "term": "اعتماد",
+      "equivalents": [
+        "باور",
+        "دل‌گرمی"
+      ],
+      "english": "Trust",
+      "usage": "بسته به بافت، اتکا یا اطمینان به دیگری",
+      "category": "۱۲. واژه‌های احساسی و روانی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۱۲. واژه‌های احساسی و روانی:خودخواهی",
+      "term": "خودخواهی",
+      "equivalents": [
+        "خودپسندی"
+      ],
+      "english": "Selfishness",
+      "usage": "خودمحوری",
+      "category": "۱۲. واژه‌های احساسی و روانی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۱۲. واژه‌های احساسی و روانی:مهربانی",
+      "term": "مهربانی",
+      "equivalents": [
+        "نیک‌خواهی"
+      ],
+      "english": "Kindness",
+      "usage": "رفتار مهربانانه",
+      "category": "۱۲. واژه‌های احساسی و روانی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۱۲. واژه‌های احساسی و روانی:تمرکز",
+      "term": "تمرکز",
+      "equivalents": [
+        "یک‌سوکردن توجه",
+        "گردآوری ذهن"
+      ],
+      "english": "Focus",
+      "usage": "توجه پایدار به یک موضوع",
+      "category": "۱۲. واژه‌های احساسی و روانی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۱۲. واژه‌های احساسی و روانی:خلاقیت",
+      "term": "خلاقیت",
+      "equivalents": [
+        "نوآوری"
+      ],
+      "english": "Creativity",
+      "usage": "توانایی ابداع و نوآوری",
+      "category": "۱۲. واژه‌های احساسی و روانی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۱۳. واژه‌های مذهبی و باورها:خدا",
+      "term": "خدا",
+      "equivalents": [
+        "پروردگار"
+      ],
+      "english": "God",
+      "usage": "موجود برتر",
+      "category": "۱۳. واژه‌های مذهبی و باورها",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۱۳. واژه‌های مذهبی و باورها:پیامبر",
+      "term": "پیامبر",
+      "equivalents": [
+        "فرستاده"
+      ],
+      "english": "Prophet",
+      "usage": "فرستاده الهی",
+      "category": "۱۳. واژه‌های مذهبی و باورها",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۱۳. واژه‌های مذهبی و باورها:دین",
+      "term": "دین",
+      "equivalents": [
+        "آیین"
+      ],
+      "english": "Religion",
+      "usage": "باور مذهبی",
+      "category": "۱۳. واژه‌های مذهبی و باورها",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۱۳. واژه‌های مذهبی و باورها:نماز",
+      "term": "نماز",
+      "equivalents": [
+        "نماز",
+        "نیایش آیینی"
+      ],
+      "english": "Prayer",
+      "usage": "نماز آیین معینی است و با هر نیایشی یکسان نیست",
+      "category": "۱۳. واژه‌های مذهبی و باورها",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۱۳. واژه‌های مذهبی و باورها:ایمان",
+      "term": "ایمان",
+      "equivalents": [
+        "باور"
+      ],
+      "english": "Faith",
+      "usage": "باور مذهبی",
+      "category": "۱۳. واژه‌های مذهبی و باورها",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۱۳. واژه‌های مذهبی و باورها:عقیده",
+      "term": "عقیده",
+      "equivalents": [
+        "باور",
+        "دیدگاه"
+      ],
+      "english": "Belief",
+      "usage": "با «نظر» گذرا همواره یکسان نیست",
+      "category": "۱۳. واژه‌های مذهبی و باورها",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۱۳. واژه‌های مذهبی و باورها:عبادت",
+      "term": "عبادت",
+      "equivalents": [
+        "پرستش"
+      ],
+      "english": "Worship",
+      "usage": "انجام اعمال مذهبی",
+      "category": "۱۳. واژه‌های مذهبی و باورها",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۱۳. واژه‌های مذهبی و باورها:قرآن",
+      "term": "قرآن",
+      "equivalents": [
+        "قرآن"
+      ],
+      "english": "Quran",
+      "usage": "نام خاص؛ نباید به «کتاب مقدس» تغییر داده شود",
+      "category": "۱۳. واژه‌های مذهبی و باورها",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۱۴. واژه‌های سلام و احوال‌پرسی:سلام",
+      "term": "سلام",
+      "equivalents": [
+        "درود"
+      ],
+      "english": "Hello / Greetings",
+      "usage": "احوال‌پرسی روزمره",
+      "category": "۱۴. واژه‌های سلام و احوال‌پرسی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۱۴. واژه‌های سلام و احوال‌پرسی:خداحافظ",
+      "term": "خداحافظ",
+      "equivalents": [
+        "بدرود"
+      ],
+      "english": "Goodbye",
+      "usage": "خداحافظی",
+      "category": "۱۴. واژه‌های سلام و احوال‌پرسی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۱۴. واژه‌های سلام و احوال‌پرسی:معذرت",
+      "term": "معذرت",
+      "equivalents": [
+        "پوزش"
+      ],
+      "english": "Sorry",
+      "usage": "درخواست بخشش",
+      "category": "۱۴. واژه‌های سلام و احوال‌پرسی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۱۴. واژه‌های سلام و احوال‌پرسی:تشکر",
+      "term": "تشکر",
+      "equivalents": [
+        "سپاس"
+      ],
+      "english": "Thanks",
+      "usage": "قدردانی",
+      "category": "۱۴. واژه‌های سلام و احوال‌پرسی",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۱۵. واژه‌های هوش مصنوعی و داده:هوش مصنوعی",
+      "term": "هوش مصنوعی",
+      "equivalents": [
+        "هوش مصنوعی"
+      ],
+      "english": "Artificial Intelligence",
+      "usage": "سیستم‌های هوشمند",
+      "category": "۱۵. واژه‌های هوش مصنوعی و داده",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۱۵. واژه‌های هوش مصنوعی و داده:یادگیری ماشین",
+      "term": "یادگیری ماشین",
+      "equivalents": [
+        "ماشین‌آموزی"
+      ],
+      "english": "Machine Learning",
+      "usage": "یادگیری از داده",
+      "category": "۱۵. واژه‌های هوش مصنوعی و داده",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۱۵. واژه‌های هوش مصنوعی و داده:یادگیری عمیق",
+      "term": "یادگیری عمیق",
+      "equivalents": [
+        "ژرف‌آموزی"
+      ],
+      "english": "Deep Learning",
+      "usage": "شبکه‌های عصبی عمیق",
+      "category": "۱۵. واژه‌های هوش مصنوعی و داده",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۱۵. واژه‌های هوش مصنوعی و داده:مدل",
+      "term": "مدل",
+      "equivalents": [
+        "الگو"
+      ],
+      "english": "Model",
+      "usage": "نمایش ریاضی داده",
+      "category": "۱۵. واژه‌های هوش مصنوعی و داده",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۱۵. واژه‌های هوش مصنوعی و داده:الگوریتم",
+      "term": "الگوریتم",
+      "equivalents": [
+        "روش‌کار",
+        "روندکار"
+      ],
+      "english": "Algorithm",
+      "usage": "مراحل حل مسئله",
+      "category": "۱۵. واژه‌های هوش مصنوعی و داده",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۱۵. واژه‌های هوش مصنوعی و داده:داده‌کاوی",
+      "term": "داده‌کاوی",
+      "equivalents": [
+        "ژرف‌کاوی"
+      ],
+      "english": "Data Mining",
+      "usage": "استخراج الگو از داده",
+      "category": "۱۵. واژه‌های هوش مصنوعی و داده",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۱۵. واژه‌های هوش مصنوعی و داده:داده",
+      "term": "داده",
+      "equivalents": [
+        "داده",
+        "داده‌ها"
+      ],
+      "english": "Data",
+      "usage": "اطلاعات خام",
+      "category": "۱۵. واژه‌های هوش مصنوعی و داده",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۱۵. واژه‌های هوش مصنوعی و داده:پردازش",
+      "term": "پردازش",
+      "equivalents": [
+        "فراوری"
+      ],
+      "english": "Processing",
+      "usage": "پردازش اطلاعات",
+      "category": "۱۵. واژه‌های هوش مصنوعی و داده",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۱۶. واژه‌های UI و UX:رابط کاربری",
+      "term": "رابط کاربری",
+      "equivalents": [
+        "چهره‌نما",
+        "نمای کاربر"
+      ],
+      "english": "User Interface",
+      "usage": "ظاهر نرم‌افزار",
+      "category": "۱۶. واژه‌های UI و UX",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۱۶. واژه‌های UI و UX:تجربه کاربری",
+      "term": "تجربه کاربری",
+      "equivalents": [
+        "تجربهٔ کاربر"
+      ],
+      "english": "User Experience",
+      "usage": "برداشت و کارکرد تجربهٔ کار با محصول",
+      "category": "۱۶. واژه‌های UI و UX",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۱۶. واژه‌های UI و UX:طراحی",
+      "term": "طراحی",
+      "equivalents": [
+        "نقش‌پردازی"
+      ],
+      "english": "Design",
+      "usage": "طراحی بصری",
+      "category": "۱۶. واژه‌های UI و UX",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۱۶. واژه‌های UI و UX:دکمه",
+      "term": "دکمه",
+      "equivalents": [
+        "فشاره",
+        "کلیدنما"
+      ],
+      "english": "Button",
+      "usage": "عنصر کلیک‌پذیر",
+      "category": "۱۶. واژه‌های UI و UX",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۱۶. واژه‌های UI و UX:منو",
+      "term": "منو",
+      "equivalents": [
+        "فهرست"
+      ],
+      "english": "Menu",
+      "usage": "لیست گزینه‌ها",
+      "category": "۱۶. واژه‌های UI و UX",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۱۶. واژه‌های UI و UX:انیمیشن",
+      "term": "انیمیشن",
+      "equivalents": [
+        "جنبش‌نما"
+      ],
+      "english": "Animation",
+      "usage": "حرکت بصری",
+      "category": "۱۶. واژه‌های UI و UX",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۱۶. واژه‌های UI و UX:آیکون",
+      "term": "آیکون",
+      "equivalents": [
+        "نماد"
+      ],
+      "english": "Icon",
+      "usage": "نشان گرافیکی",
+      "category": "۱۶. واژه‌های UI و UX",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۱۶. واژه‌های UI و UX:چیدمان",
+      "term": "چیدمان",
+      "equivalents": [
+        "آرایش‌بندی"
+      ],
+      "english": "Layout",
+      "usage": "ساختار صفحه",
+      "category": "۱۶. واژه‌های UI و UX",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۱۷. واژه‌های زیرساخت و DevOps:استقرار",
+      "term": "استقرار",
+      "equivalents": [
+        "راه‌اندازی"
+      ],
+      "english": "Deployment",
+      "usage": "انتشار نرم‌افزار",
+      "category": "۱۷. واژه‌های زیرساخت و DevOps",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۱۷. واژه‌های زیرساخت و DevOps:زیرساخت",
+      "term": "زیرساخت",
+      "equivalents": [
+        "زیرساخت",
+        "پایه‌ساخت"
+      ],
+      "english": "Infrastructure",
+      "usage": "ساختار سیستم",
+      "category": "۱۷. واژه‌های زیرساخت و DevOps",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۱۷. واژه‌های زیرساخت و DevOps:رایانش ابری",
+      "term": "رایانش ابری",
+      "equivalents": [
+        "پردازش ابری"
+      ],
+      "english": "Cloud Computing",
+      "usage": "به‌کارگیری منابع رایانشی از راه شبکه",
+      "category": "۱۷. واژه‌های زیرساخت و DevOps",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۱۷. واژه‌های زیرساخت و DevOps:کانتینر",
+      "term": "کانتینر",
+      "equivalents": [
+        "محیط اجرای جداشده"
+      ],
+      "english": "Container",
+      "usage": "در نرم‌افزار بسته‌بندی با محیط اجرای جداشده",
+      "category": "۱۷. واژه‌های زیرساخت و DevOps",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۱۷. واژه‌های زیرساخت و DevOps:مجازی‌سازی",
+      "term": "مجازی‌سازی",
+      "equivalents": [
+        "مجازی‌سازی"
+      ],
+      "english": "Virtualization",
+      "usage": "شبیه‌سازی سیستم",
+      "category": "۱۷. واژه‌های زیرساخت و DevOps",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۱۷. واژه‌های زیرساخت و DevOps:مانیتورینگ",
+      "term": "مانیتورینگ",
+      "equivalents": [
+        "پایش"
+      ],
+      "english": "Monitoring",
+      "usage": "نظارت سیستم",
+      "category": "۱۷. واژه‌های زیرساخت و DevOps",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۱۷. واژه‌های زیرساخت و DevOps:لاگ",
+      "term": "لاگ",
+      "equivalents": [
+        "گزارش رخداد"
+      ],
+      "english": "Log",
+      "usage": "ثبت رویدادها",
+      "category": "۱۷. واژه‌های زیرساخت و DevOps",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۱۷. واژه‌های زیرساخت و DevOps:مقیاس‌پذیری",
+      "term": "مقیاس‌پذیری",
+      "equivalents": [
+        "گسترش‌پذیری"
+      ],
+      "english": "Scalability",
+      "usage": "رشد سیستم",
+      "category": "۱۷. واژه‌های زیرساخت و DevOps",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۱۸. واژه‌های دیجیتال مدرن:دانلود",
+      "term": "دانلود",
+      "equivalents": [
+        "بارگیری"
+      ],
+      "english": "Download",
+      "usage": "دریافت فایل",
+      "category": "۱۸. واژه‌های دیجیتال مدرن",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۱۸. واژه‌های دیجیتال مدرن:آپلود",
+      "term": "آپلود",
+      "equivalents": [
+        "بارگذاری"
+      ],
+      "english": "Upload",
+      "usage": "ارسال فایل",
+      "category": "۱۸. واژه‌های دیجیتال مدرن",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۱۸. واژه‌های دیجیتال مدرن:لینک",
+      "term": "لینک",
+      "equivalents": [
+        "پیوند"
+      ],
+      "english": "Link",
+      "usage": "اتصال",
+      "category": "۱۸. واژه‌های دیجیتال مدرن",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۱۸. واژه‌های دیجیتال مدرن:پسورد",
+      "term": "پسورد",
+      "equivalents": [
+        "گذرواژه"
+      ],
+      "english": "Password",
+      "usage": "رمز ورود",
+      "category": "۱۸. واژه‌های دیجیتال مدرن",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۱۸. واژه‌های دیجیتال مدرن:اکانت",
+      "term": "اکانت",
+      "equivalents": [
+        "حساب کاربری"
+      ],
+      "english": "Account",
+      "usage": "حساب دیجیتال",
+      "category": "۱۸. واژه‌های دیجیتال مدرن",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۱۸. واژه‌های دیجیتال مدرن:نوتیفیکیشن",
+      "term": "نوتیفیکیشن",
+      "equivalents": [
+        "اعلان"
+      ],
+      "english": "Notification",
+      "usage": "اعلان سیستم",
+      "category": "۱۸. واژه‌های دیجیتال مدرن",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۱۸. واژه‌های دیجیتال مدرن:کش",
+      "term": "کش",
+      "equivalents": [
+        "حافظه نهان"
+      ],
+      "english": "Cache",
+      "usage": "ذخیره موقت",
+      "category": "۱۸. واژه‌های دیجیتال مدرن",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۱۸. واژه‌های دیجیتال مدرن:مرورگر",
+      "term": "مرورگر",
+      "equivalents": [
+        "مرورگر وب"
+      ],
+      "english": "Web Browser",
+      "usage": "نرم‌افزار وب",
+      "category": "۱۸. واژه‌های دیجیتال مدرن",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "main:۱۸. واژه‌های دیجیتال مدرن:اپلیکیشن",
+      "term": "اپلیکیشن",
+      "equivalents": [
+        "برنامه کاربردی"
+      ],
+      "english": "Application",
+      "usage": "نرم‌افزار کاربردی",
+      "category": "۱۸. واژه‌های دیجیتال مدرن",
+      "source": "persian.tex",
+      "review_status": "legacy"
+    },
+    {
+      "id": "adverbs:۱. درستی، گمان و تأکید:دقیقاً",
+      "term": "دقیقاً",
+      "equivalents": [
+        "درست",
+        "مو‌به‌مو",
+        "بی‌کم‌وکاست"
+      ],
+      "english": "Exactly",
+      "usage": "برای شمار: «درست پنج نفر»؛ برای پیروی از دستور: «مو‌به‌مو».",
+      "category": "۱. درستی، گمان و تأکید",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۱. درستی، گمان و تأکید:حقیقتاً",
+      "term": "حقیقتاً",
+      "equivalents": [
+        "به‌راستی",
+        "در حقیقت"
+      ],
+      "english": "Truly",
+      "usage": "برای بیان راستی؛ در بسیاری از جمله‌ها «به‌راستی» روان‌تر است.",
+      "category": "۱. درستی، گمان و تأکید",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۱. درستی، گمان و تأکید:واقعاً",
+      "term": "واقعاً",
+      "equivalents": [
+        "به‌راستی",
+        "به‌درستی"
+      ],
+      "english": "Really",
+      "usage": "برای شگفتی یا تأکید؛ «به‌درستی» گاهی به معنی به‌شیوهٔ درست است.",
+      "category": "۱. درستی، گمان و تأکید",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۱. درستی، گمان و تأکید:یقیناً",
+      "term": "یقیناً",
+      "equivalents": [
+        "بی‌گمان",
+        "بی‌تردید"
+      ],
+      "english": "Certainly",
+      "usage": "برای اطمینان فراوان، نه پیش‌بینی نامطمئن.",
+      "category": "۱. درستی، گمان و تأکید",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۱. درستی، گمان و تأکید:مسلماً",
+      "term": "مسلماً",
+      "equivalents": [
+        "بی‌گمان",
+        "بی‌تردید"
+      ],
+      "english": "Certainly",
+      "usage": "برای تأکید بر امری دانسته یا پذیرفته‌شده.",
+      "category": "۱. درستی، گمان و تأکید",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۱. درستی، گمان و تأکید:احتمالاً",
+      "term": "احتمالاً",
+      "equivalents": [
+        "به‌گمان زیاد",
+        "شاید"
+      ],
+      "english": "Probably",
+      "usage": "«شاید» از «به‌گمان زیاد» کم‌قطعیت‌تر است.",
+      "category": "۱. درستی، گمان و تأکید",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۱. درستی، گمان و تأکید:محتملاً",
+      "term": "محتملاً",
+      "equivalents": [
+        "شاید",
+        "به‌گمان زیاد"
+      ],
+      "english": "Possibly",
+      "usage": "بسته به میزان اطمینان نویسنده.",
+      "category": "۱. درستی، گمان و تأکید",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۱. درستی، گمان و تأکید:احیاناً",
+      "term": "احیاناً",
+      "equivalents": [
+        "شاید",
+        "چه‌بسا"
+      ],
+      "english": "Possibly",
+      "usage": "در پرسش‌های مؤدبانه نیز کاربرد دارد: «شاید بدانید؟».",
+      "category": "۱. درستی، گمان و تأکید",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۱. درستی، گمان و تأکید:ظاهراً",
+      "term": "ظاهراً",
+      "equivalents": [
+        "گویا",
+        "چنین پیداست"
+      ],
+      "english": "Apparently",
+      "usage": "برداشت از نشانه‌هاست، نه اثبات قطعی.",
+      "category": "۱. درستی، گمان و تأکید",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۱. درستی، گمان و تأکید:قاعدتاً",
+      "term": "قاعدتاً",
+      "equivalents": [
+        "بر پایهٔ روال",
+        "چنان‌که انتظار می‌رود"
+      ],
+      "english": "Normally",
+      "usage": "برای نتیجهٔ مورد انتظار از یک قاعده یا روال.",
+      "category": "۱. درستی، گمان و تأکید",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۱. درستی، گمان و تأکید:مطلقاً",
+      "term": "مطلقاً",
+      "equivalents": [
+        "یکسره",
+        "به‌هیچ‌روی"
+      ],
+      "english": "Absolutely",
+      "usage": "در نفی: «به‌هیچ‌روی»؛ در تأکید مثبت: «یکسره».",
+      "category": "۱. درستی، گمان و تأکید",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۱. درستی، گمان و تأکید:اساساً",
+      "term": "اساساً",
+      "equivalents": [
+        "از پایه",
+        "از بن"
+      ],
+      "english": "Fundamentally",
+      "usage": "برای سخن گفتن از بنیاد موضوع.",
+      "category": "۱. درستی، گمان و تأکید",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۱. درستی، گمان و تأکید:اصولاً",
+      "term": "اصولاً",
+      "equivalents": [
+        "در اصل",
+        "از بنیاد"
+      ],
+      "english": "In principle",
+      "usage": "برای بیان قاعدهٔ کلی؛ همیشه با «اصلاً» یکسان نیست.",
+      "category": "۱. درستی، گمان و تأکید",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۱. درستی، گمان و تأکید:لزوماً",
+      "term": "لزوماً",
+      "equivalents": [
+        "به‌ناگزیر",
+        "ناچار"
+      ],
+      "english": "Necessarily",
+      "usage": "در ترکیب «نه لزوماً» بهتر است «نه همیشه» یا «نه به‌ناچار» با توجه به معنا بیاید.",
+      "category": "۱. درستی، گمان و تأکید",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۲. زمان، توالی و تکرار:جدیداً",
+      "term": "جدیداً",
+      "equivalents": [
+        "به‌تازگی"
+      ],
+      "english": "Recently",
+      "usage": "در اشاره به رخداد یا تغییر تازه.",
+      "category": "۲. زمان، توالی و تکرار",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۲. زمان، توالی و تکرار:اخیراً",
+      "term": "اخیراً",
+      "equivalents": [
+        "به‌تازگی",
+        "همین چندی پیش"
+      ],
+      "english": "Recently",
+      "usage": "برای رویدادی در گذشتهٔ نزدیک.",
+      "category": "۲. زمان، توالی و تکرار",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۲. زمان، توالی و تکرار:قبلاً",
+      "term": "قبلاً",
+      "equivalents": [
+        "پیش‌تر",
+        "از پیش"
+      ],
+      "english": "Previously",
+      "usage": "«از پیش» بیشتر برای آمادگی یا آگاهی پیشینی.",
+      "category": "۲. زمان، توالی و تکرار",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۲. زمان، توالی و تکرار:بعداً",
+      "term": "بعداً",
+      "equivalents": [
+        "سپس",
+        "پس از آن",
+        "دیرتر"
+      ],
+      "english": "Later",
+      "usage": "«سپس» برای ترتیب؛ «دیرتر» برای زمان آینده.",
+      "category": "۲. زمان، توالی و تکرار",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۲. زمان، توالی و تکرار:فعلاً",
+      "term": "فعلاً",
+      "equivalents": [
+        "اکنون",
+        "تا آن هنگام",
+        "تا اطلاع بعدی"
+      ],
+      "english": "For now",
+      "usage": "زمان پایان یا موقتی‌بودن را از بافت جمله دریابید.",
+      "category": "۲. زمان، توالی و تکرار",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۲. زمان، توالی و تکرار:فوراً",
+      "term": "فوراً",
+      "equivalents": [
+        "بی‌درنگ",
+        "درجا"
+      ],
+      "english": "Immediately",
+      "usage": "برای انجام کار بدون درنگ.",
+      "category": "۲. زمان، توالی و تکرار",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۲. زمان، توالی و تکرار:سریعاً",
+      "term": "سریعاً",
+      "equivalents": [
+        "با شتاب",
+        "شتابان"
+      ],
+      "english": "Quickly",
+      "usage": "سرعت را می‌رساند؛ نه لزوماً آغاز بی‌درنگ.",
+      "category": "۲. زمان، توالی و تکرار",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۲. زمان، توالی و تکرار:تدریجاً",
+      "term": "تدریجاً",
+      "equivalents": [
+        "رفته‌رفته",
+        "کم‌کم"
+      ],
+      "english": "Gradually",
+      "usage": "دگرگونی در گذر زمان.",
+      "category": "۲. زمان، توالی و تکرار",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۲. زمان، توالی و تکرار:مجدداً",
+      "term": "مجدداً",
+      "equivalents": [
+        "دوباره",
+        "از نو"
+      ],
+      "english": "Again",
+      "usage": "«از نو» می‌تواند آغاز از ابتدا را برساند.",
+      "category": "۲. زمان، توالی و تکرار",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۲. زمان، توالی و تکرار:مکرراً",
+      "term": "مکرراً",
+      "equivalents": [
+        "بارها",
+        "چندین‌بار"
+      ],
+      "english": "Repeatedly",
+      "usage": "تکرار چندباره؛ نه لزوماً بی‌وقفه.",
+      "category": "۲. زمان، توالی و تکرار",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۲. زمان، توالی و تکرار:مرتباً",
+      "term": "مرتباً",
+      "equivalents": [
+        "پی‌درپی",
+        "به‌طور منظم"
+      ],
+      "english": "Regularly",
+      "usage": "«پی‌درپی» برای توالی؛ «منظم» برای نظم زمانی.",
+      "category": "۲. زمان، توالی و تکرار",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۲. زمان، توالی و تکرار:دائماً",
+      "term": "دائماً",
+      "equivalents": [
+        "پیوسته",
+        "همواره"
+      ],
+      "english": "Constantly",
+      "usage": "برای استمرار، نه تکرار گاه‌به‌گاه.",
+      "category": "۲. زمان، توالی و تکرار",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۲. زمان، توالی و تکرار:موقتاً",
+      "term": "موقتاً",
+      "equivalents": [
+        "برای چندی",
+        "کوتاه‌مدت"
+      ],
+      "english": "Temporarily",
+      "usage": "با پایان احتمالی یا مشخص.",
+      "category": "۲. زمان، توالی و تکرار",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۲. زمان، توالی و تکرار:نهایتاً",
+      "term": "نهایتاً",
+      "equivalents": [
+        "سرانجام",
+        "در پایان"
+      ],
+      "english": "Ultimately",
+      "usage": "برای فرجام یک روند؛ نه لزوماً بیشینهٔ مقدار.",
+      "category": "۲. زمان، توالی و تکرار",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۲. زمان، توالی و تکرار:ابتدائاً",
+      "term": "ابتدائاً",
+      "equivalents": [
+        "نخست",
+        "در آغاز"
+      ],
+      "english": "Initially",
+      "usage": "برای نخستین گام یا وضعیت آغازین.",
+      "category": "۲. زمان، توالی و تکرار",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۲. زمان، توالی و تکرار:متعاقباً",
+      "term": "متعاقباً",
+      "equivalents": [
+        "پس از آن",
+        "در پی آن"
+      ],
+      "english": "Subsequently",
+      "usage": "ترتیب زمانی؛ گاه همراه با پیوند علّی.",
+      "category": "۲. زمان، توالی و تکرار",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۲. زمان، توالی و تکرار:متناوباً",
+      "term": "متناوباً",
+      "equivalents": [
+        "یک‌درمیان",
+        "نوبتی"
+      ],
+      "english": "Alternately",
+      "usage": "برای تناوب؛ با «پیوسته» تفاوت دارد.",
+      "category": "۲. زمان، توالی و تکرار",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۲. زمان، توالی و تکرار:سابقاً",
+      "term": "سابقاً",
+      "equivalents": [
+        "پیش‌تر",
+        "در گذشته"
+      ],
+      "english": "Formerly",
+      "usage": "برای وضعیت یا روال پیشین.",
+      "category": "۲. زمان، توالی و تکرار",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۲. زمان، توالی و تکرار:حالياً",
+      "term": "حالياً",
+      "equivalents": [
+        "اکنون",
+        "اینک"
+      ],
+      "english": "Currently",
+      "usage": "برای زمان کنونی.",
+      "category": "۲. زمان، توالی و تکرار",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۲. زمان، توالی و تکرار:آنياً",
+      "term": "آنياً",
+      "equivalents": [
+        "همان دم",
+        "درجا"
+      ],
+      "english": "Instantly",
+      "usage": "برای رخداد بی‌فاصله.",
+      "category": "۲. زمان، توالی و تکرار",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۳. شیوه، قصد و بیان:صریحاً",
+      "term": "صریحاً",
+      "equivalents": [
+        "آشکارا",
+        "بی‌پرده"
+      ],
+      "english": "Explicitly",
+      "usage": "برای بیان روشن و بی‌ابهام.",
+      "category": "۳. شیوه، قصد و بیان",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۳. شیوه، قصد و بیان:مستقیماً",
+      "term": "مستقیماً",
+      "equivalents": [
+        "یکراست",
+        "بی‌میانجی"
+      ],
+      "english": "Directly",
+      "usage": "برای مسیر یا ارتباط بدون واسطه.",
+      "category": "۳. شیوه، قصد و بیان",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۳. شیوه، قصد و بیان:علناً",
+      "term": "علناً",
+      "equivalents": [
+        "آشکارا",
+        "پیش چشم همگان"
+      ],
+      "english": "Publicly",
+      "usage": "برای کاری که پنهانی نیست.",
+      "category": "۳. شیوه، قصد و بیان",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۳. شیوه، قصد و بیان:شخصاً",
+      "term": "شخصاً",
+      "equivalents": [
+        "خودم",
+        "به‌شخصه"
+      ],
+      "english": "Personally",
+      "usage": "در متن یکم‌شخص «خودم» روان‌تر است.",
+      "category": "۳. شیوه، قصد و بیان",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۳. شیوه، قصد و بیان:عمداً",
+      "term": "عمداً",
+      "equivalents": [
+        "آگاهانه",
+        "از روی خواست"
+      ],
+      "english": "Intentionally",
+      "usage": "برای کار از روی قصد، نه اتفاق.",
+      "category": "۳. شیوه، قصد و بیان",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۳. شیوه، قصد و بیان:سهواً",
+      "term": "سهواً",
+      "equivalents": [
+        "ناخواسته",
+        "از روی اشتباه"
+      ],
+      "english": "Inadvertently",
+      "usage": "نبود قصد را می‌رساند؛ لزوماً نبود آگاهی نیست.",
+      "category": "۳. شیوه، قصد و بیان",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۳. شیوه، قصد و بیان:تصادفاً",
+      "term": "تصادفاً",
+      "equivalents": [
+        "اتفاقی",
+        "از سر اتفاق"
+      ],
+      "english": "By chance",
+      "usage": "برای رخداد پیش‌بینی‌نشده.",
+      "category": "۳. شیوه، قصد و بیان",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۳. شیوه، قصد و بیان:اتفاقاً",
+      "term": "اتفاقاً",
+      "equivalents": [
+        "از قضا",
+        "دست‌برقضا"
+      ],
+      "english": "As it happens",
+      "usage": "بسته به جمله می‌تواند هم‌زمانی یا غافلگیری را برساند.",
+      "category": "۳. شیوه، قصد و بیان",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۳. شیوه، قصد و بیان:اجباراً",
+      "term": "اجباراً",
+      "equivalents": [
+        "به‌ناچار",
+        "از سر ناچاری"
+      ],
+      "english": "Under compulsion",
+      "usage": "برای کاری بدون اختیار واقعی.",
+      "category": "۳. شیوه، قصد و بیان",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۳. شیوه، قصد و بیان:اختیاراً",
+      "term": "اختیاراً",
+      "equivalents": [
+        "به خواست خود",
+        "خودخواسته"
+      ],
+      "english": "Voluntarily",
+      "usage": "برای کاری از روی گزینش آزادانه.",
+      "category": "۳. شیوه، قصد و بیان",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۳. شیوه، قصد و بیان:طبیعتاً",
+      "term": "طبیعتاً",
+      "equivalents": [
+        "به‌خودی‌خود",
+        "چنان‌که پیداست"
+      ],
+      "english": "Naturally",
+      "usage": "وابسته به این‌که منظور روند طبیعی باشد یا انتظار منطقی.",
+      "category": "۳. شیوه، قصد و بیان",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۳. شیوه، قصد و بیان:عیناً",
+      "term": "عیناً",
+      "equivalents": [
+        "مو‌به‌مو",
+        "بی‌کم‌وکاست"
+      ],
+      "english": "Verbatim",
+      "usage": "برای بازگویی یا بازسازی بدون دگرگونی.",
+      "category": "۳. شیوه، قصد و بیان",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۳. شیوه، قصد و بیان:عملاً",
+      "term": "عملاً",
+      "equivalents": [
+        "در عمل",
+        "در کردار"
+      ],
+      "english": "In practice",
+      "usage": "در برابر نظریه یا ادعا.",
+      "category": "۳. شیوه، قصد و بیان",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۳. شیوه، قصد و بیان:شفاهاً",
+      "term": "شفاهاً",
+      "equivalents": [
+        "زبانی",
+        "گفتاری"
+      ],
+      "english": "Orally",
+      "usage": "گفته می‌شود، نوشته نمی‌شود.",
+      "category": "۳. شیوه، قصد و بیان",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۳. شیوه، قصد و بیان:کتباً",
+      "term": "کتباً",
+      "equivalents": [
+        "نوشتاری",
+        "در نوشته"
+      ],
+      "english": "In writing",
+      "usage": "برای ثبت رسمی یا غیررسمی در نوشته.",
+      "category": "۳. شیوه، قصد و بیان",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۳. شیوه، قصد و بیان:اصالتاً",
+      "term": "اصالتاً",
+      "equivalents": [
+        "در اصل",
+        "از ریشه"
+      ],
+      "english": "Originally",
+      "usage": "در زمینهٔ خاستگاه؛ با «ذاتاً» یکی نیست.",
+      "category": "۳. شیوه، قصد و بیان",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۳. شیوه، قصد و بیان:ذاتاً",
+      "term": "ذاتاً",
+      "equivalents": [
+        "در سرشت",
+        "سرشتاً"
+      ],
+      "english": "Inherently",
+      "usage": "برای ویژگی درونی و بنیادین.",
+      "category": "۳. شیوه، قصد و بیان",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۳. شیوه، قصد و بیان:مستقلاً",
+      "term": "مستقلاً",
+      "equivalents": [
+        "جداگانه",
+        "به‌تنهایی"
+      ],
+      "english": "Independently",
+      "usage": "بدون وابستگی؛ نه لزوماً در تنهایی فیزیکی.",
+      "category": "۳. شیوه، قصد و بیان",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۳. شیوه، قصد و بیان:تلویحاً",
+      "term": "تلویحاً",
+      "equivalents": [
+        "سربسته",
+        "به‌کنایه"
+      ],
+      "english": "Implicitly",
+      "usage": "برای اشارهٔ غیرمستقیم.",
+      "category": "۳. شیوه، قصد و بیان",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۳. شیوه، قصد و بیان:توأماً",
+      "term": "توأماً",
+      "equivalents": [
+        "با هم",
+        "هم‌زمان"
+      ],
+      "english": "Together",
+      "usage": "برای همراهی دو یا چند چیز.",
+      "category": "۳. شیوه، قصد و بیان",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۳. شیوه، قصد و بیان:متقابلاً",
+      "term": "متقابلاً",
+      "equivalents": [
+        "دوسویه",
+        "در برابر"
+      ],
+      "english": "Mutually",
+      "usage": "برای کنش و واکنش دو سویه.",
+      "category": "۳. شیوه، قصد و بیان",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۳. شیوه، قصد و بیان:متأسفانه",
+      "term": "متأسفانه",
+      "equivalents": [
+        "شوربختانه",
+        "دریغا"
+      ],
+      "english": "Unfortunately",
+      "usage": "برای افسوس یا ناخشنودی.",
+      "category": "۳. شیوه، قصد و بیان",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۴. اندازه، گستره و بسامد:کلاً",
+      "term": "کلاً",
+      "equivalents": [
+        "روی‌هم‌رفته",
+        "در مجموع"
+      ],
+      "english": "Overall",
+      "usage": "جمع‌بندی؛ در «کلاً ممنوع است» می‌تواند «یکسره» باشد.",
+      "category": "۴. اندازه، گستره و بسامد",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۴. اندازه، گستره و بسامد:کاملاً",
+      "term": "کاملاً",
+      "equivalents": [
+        "به‌تمامی",
+        "یکسره"
+      ],
+      "english": "Completely",
+      "usage": "برای کامل‌بودن، نه نزدیک‌بودن.",
+      "category": "۴. اندازه، گستره و بسامد",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۴. اندازه، گستره و بسامد:تماماً",
+      "term": "تماماً",
+      "equivalents": [
+        "یکسره",
+        "به‌تمامی"
+      ],
+      "english": "Entirely",
+      "usage": "برای همهٔ بخش‌ها.",
+      "category": "۴. اندازه، گستره و بسامد",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۴. اندازه، گستره و بسامد:اکثراً",
+      "term": "اکثراً",
+      "equivalents": [
+        "بیشترشان",
+        "بیشتر وقت‌ها"
+      ],
+      "english": "Mostly",
+      "usage": "بسته به اینکه شمار افراد باشد یا بسامد زمانی.",
+      "category": "۴. اندازه، گستره و بسامد",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۴. اندازه، گستره و بسامد:غالباً",
+      "term": "غالباً",
+      "equivalents": [
+        "بیشتر وقت‌ها",
+        "بیشتر"
+      ],
+      "english": "Often",
+      "usage": "بسامد یا فراوانی را از بافت تشخیص دهید.",
+      "category": "۴. اندازه، گستره و بسامد",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۴. اندازه، گستره و بسامد:عموماً",
+      "term": "عموماً",
+      "equivalents": [
+        "به‌طور کلی",
+        "بیشتر وقت‌ها"
+      ],
+      "english": "Generally",
+      "usage": "برای گزارهٔ عمومی، نه همیشه و همه‌جا.",
+      "category": "۴. اندازه، گستره و بسامد",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۴. اندازه، گستره و بسامد:معمولاً",
+      "term": "معمولاً",
+      "equivalents": [
+        "بیشتر وقت‌ها",
+        "بنا بر روال"
+      ],
+      "english": "Usually",
+      "usage": "برای چیزی که روال رایج است.",
+      "category": "۴. اندازه، گستره و بسامد",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۴. اندازه، گستره و بسامد:نسبتاً",
+      "term": "نسبتاً",
+      "equivalents": [
+        "تا اندازه‌ای",
+        "کمابیش"
+      ],
+      "english": "Relatively",
+      "usage": "در قیاس با چیزی دیگر.",
+      "category": "۴. اندازه، گستره و بسامد",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۴. اندازه، گستره و بسامد:شدیداً",
+      "term": "شدیداً",
+      "equivalents": [
+        "سخت",
+        "بسیار"
+      ],
+      "english": "Intensely",
+      "usage": "برای شدت؛ «سخت» همواره مناسب متن علمی نیست.",
+      "category": "۴. اندازه، گستره و بسامد",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۴. اندازه، گستره و بسامد:عمیقاً",
+      "term": "عمیقاً",
+      "equivalents": [
+        "ژرف",
+        "از ژرفای دل"
+      ],
+      "english": "Deeply",
+      "usage": "برای ژرفای معنا یا احساس.",
+      "category": "۴. اندازه، گستره و بسامد",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۴. اندازه، گستره و بسامد:صرفاً",
+      "term": "صرفاً",
+      "equivalents": [
+        "تنها",
+        "تنها و بس"
+      ],
+      "english": "Merely",
+      "usage": "برای انحصار یا محدودکردن دامنه.",
+      "category": "۴. اندازه، گستره و بسامد",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۴. اندازه، گستره و بسامد:منحصراً",
+      "term": "منحصراً",
+      "equivalents": [
+        "تنها",
+        "ویژهٔ"
+      ],
+      "english": "Exclusively",
+      "usage": "برای انحصار؛ «ویژهٔ» در ترکیب اسمی.",
+      "category": "۴. اندازه، گستره و بسامد",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۴. اندازه، گستره و بسامد:خصوصاً",
+      "term": "خصوصاً",
+      "equivalents": [
+        "به‌ویژه"
+      ],
+      "english": "Especially",
+      "usage": "برای برجسته‌کردن یک مورد.",
+      "category": "۴. اندازه، گستره و بسامد",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۴. اندازه، گستره و بسامد:مخصوصاً",
+      "term": "مخصوصاً",
+      "equivalents": [
+        "به‌ویژه",
+        "ویژه"
+      ],
+      "english": "Especially",
+      "usage": "بسته به ساختار جمله.",
+      "category": "۴. اندازه، گستره و بسامد",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۴. اندازه، گستره و بسامد:بالاخص",
+      "term": "بالاخص",
+      "equivalents": [
+        "به‌ویژه",
+        "بیش از همه"
+      ],
+      "english": "In particular",
+      "usage": "برای تأکید بر مصداق مشخص.",
+      "category": "۴. اندازه، گستره و بسامد",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۴. اندازه، گستره و بسامد:اجمالاً",
+      "term": "اجمالاً",
+      "equivalents": [
+        "به‌کوتاهی",
+        "کوتاه سخن"
+      ],
+      "english": "Briefly",
+      "usage": "برای گزارش کوتاه و فشرده.",
+      "category": "۴. اندازه، گستره و بسامد",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۴. اندازه، گستره و بسامد:تفصیلاً",
+      "term": "تفصیلاً",
+      "equivalents": [
+        "با ریزه‌کاری",
+        "به‌گونهٔ گسترده"
+      ],
+      "english": "In detail",
+      "usage": "برای شرح کامل؛ نه تنها بیان طولانی.",
+      "category": "۴. اندازه، گستره و بسامد",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۵. پیوند و سازمان‌دهی گفتار:ضمناً",
+      "term": "ضمناً",
+      "equivalents": [
+        "ناگفته نماند",
+        "افزون بر این"
+      ],
+      "english": "Incidentally",
+      "usage": "برای افزودن نکته؛ «همچنین» در برخی جمله‌ها بهتر است.",
+      "category": "۵. پیوند و سازمان‌دهی گفتار",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۵. پیوند و سازمان‌دهی گفتار:مضافاً",
+      "term": "مضافاً",
+      "equivalents": [
+        "افزون بر این",
+        "گذشته از این"
+      ],
+      "english": "Additionally",
+      "usage": "برای آوردن دلیل یا نکتهٔ دیگر.",
+      "category": "۵. پیوند و سازمان‌دهی گفتار",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۵. پیوند و سازمان‌دهی گفتار:بعلاوه",
+      "term": "بعلاوه",
+      "equivalents": [
+        "افزون بر این",
+        "گذشته از آن"
+      ],
+      "english": "Moreover",
+      "usage": "برای افزودن نکته.",
+      "category": "۵. پیوند و سازمان‌دهی گفتار",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۵. پیوند و سازمان‌دهی گفتار:اولاً",
+      "term": "اولاً",
+      "equivalents": [
+        "نخست",
+        "نخست اینکه"
+      ],
+      "english": "Firstly",
+      "usage": "برای آغاز یک ترتیب.",
+      "category": "۵. پیوند و سازمان‌دهی گفتار",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۵. پیوند و سازمان‌دهی گفتار:ثانیاً",
+      "term": "ثانیاً",
+      "equivalents": [
+        "دوم",
+        "دوم اینکه"
+      ],
+      "english": "Secondly",
+      "usage": "برای گام دوم در استدلال.",
+      "category": "۵. پیوند و سازمان‌دهی گفتار",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۵. پیوند و سازمان‌دهی گفتار:ثالثاً",
+      "term": "ثالثاً",
+      "equivalents": [
+        "سوم",
+        "سوم اینکه"
+      ],
+      "english": "Thirdly",
+      "usage": "برای گام سوم در استدلال.",
+      "category": "۵. پیوند و سازمان‌دهی گفتار",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۵. پیوند و سازمان‌دهی گفتار:اختصاراً",
+      "term": "اختصاراً",
+      "equivalents": [
+        "به‌کوتاهی",
+        "کوتاه بگویم"
+      ],
+      "english": "In brief",
+      "usage": "برای خلاصه‌گویی.",
+      "category": "۵. پیوند و سازمان‌دهی گفتار",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۵. پیوند و سازمان‌دهی گفتار:نتیجتاً",
+      "term": "نتیجتاً",
+      "equivalents": [
+        "از این رو",
+        "در نتیجه"
+      ],
+      "english": "Consequently",
+      "usage": "برای پیامد یک دلیل؛ «از این رو» روان‌تر است.",
+      "category": "۵. پیوند و سازمان‌دهی گفتار",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۵. پیوند و سازمان‌دهی گفتار:بالعکس",
+      "term": "بالعکس",
+      "equivalents": [
+        "برعکس",
+        "وارونه"
+      ],
+      "english": "Conversely",
+      "usage": "بسته به اینکه تقابل باشد یا وارونگی.",
+      "category": "۵. پیوند و سازمان‌دهی گفتار",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۵. پیوند و سازمان‌دهی گفتار:فی‌الواقع",
+      "term": "فی‌الواقع",
+      "equivalents": [
+        "به‌راستی",
+        "در حقیقت"
+      ],
+      "english": "In fact",
+      "usage": "برای روشن‌کردن واقعیت.",
+      "category": "۵. پیوند و سازمان‌دهی گفتار",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۵. پیوند و سازمان‌دهی گفتار:فی‌نفسه",
+      "term": "فی‌نفسه",
+      "equivalents": [
+        "به‌خودی‌خود"
+      ],
+      "english": "In itself",
+      "usage": "بدون درنظرگرفتن اثرهای بیرونی.",
+      "category": "۵. پیوند و سازمان‌دهی گفتار",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۵. پیوند و سازمان‌دهی گفتار:علی‌رغم",
+      "term": "علی‌رغم",
+      "equivalents": [
+        "با همهٔ",
+        "با اینکه"
+      ],
+      "english": "Despite",
+      "usage": "«با اینکه» برای پیوند دو گزاره.",
+      "category": "۵. پیوند و سازمان‌دهی گفتار",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۵. پیوند و سازمان‌دهی گفتار:بالنتیجه",
+      "term": "بالنتیجه",
+      "equivalents": [
+        "از این رو",
+        "در پی آن"
+      ],
+      "english": "Therefore",
+      "usage": "برای نشان‌دادن نتیجه.",
+      "category": "۵. پیوند و سازمان‌دهی گفتار",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    },
+    {
+      "id": "adverbs:۵. پیوند و سازمان‌دهی گفتار:مع‌هذا",
+      "term": "مع‌هذا",
+      "equivalents": [
+        "بااین‌همه",
+        "بااین‌حال"
+      ],
+      "english": "Nevertheless",
+      "usage": "برای بیان تقابل با جملهٔ پیشین.",
+      "category": "۵. پیوند و سازمان‌دهی گفتار",
+      "source": "adverbs.tex",
+      "review_status": "editorial"
+    }
+  ]
+}
