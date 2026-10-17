@@ -2,7 +2,7 @@
 from __future__ import annotations
 
 import json
-from typing import Annotated
+from typing import Annotated, Any
 
 from mcp.server import MCPServer
 from pydantic import Field
@@ -20,7 +20,7 @@ mcp = MCPServer(
 
 
 @mcp.tool()
-def lookup_term(term: Annotated[str, Field(min_length=1, max_length=120, description="Persian source term or equivalent to look up.")]) -> dict:
+def lookup_term(term: Annotated[str, Field(min_length=1, max_length=120, description="Persian source term or equivalent to look up.")]) -> dict[str, Any]:
     """Find exact Persian terms and labelled reverse equivalence matches; return all senses."""
     return lexicon.lookup(term)
 
@@ -30,19 +30,19 @@ def search_terms(
     query: Annotated[str, Field(min_length=1, max_length=120, description="Persian or English search string.")],
     limit: Annotated[int, Field(ge=1, le=50)] = 10,
     category: str = "",
-) -> dict:
+) -> dict[str, Any]:
     """Search term, proposed alternatives, English and usage notes; sorted by lexical relevance."""
     return lexicon.search(query, limit=limit, category=category)
 
 
 @mcp.tool()
-def list_categories() -> list[dict]:
+def list_categories() -> list[dict[str, Any]]:
     """List glossary topic sections and how many entries each includes."""
     return lexicon.categories()
 
 
 @mcp.tool()
-def glossary_stats() -> dict:
+def glossary_stats() -> dict[str, Any]:
     """Return count, schema version, corpus sources, and agent safety guidance."""
     return lexicon.stats()
 
@@ -51,7 +51,7 @@ def glossary_stats() -> dict:
 def inspect_text(
     text: Annotated[str, Field(min_length=1, max_length=8000, description="Text to scan for possible glossary expressions; never rewritten.")],
     limit: Annotated[int, Field(ge=1, le=50)] = 20,
-) -> dict:
+) -> dict[str, Any]:
     """Identify candidate expressions and offsets WITHOUT modifying text or selecting a substitute."""
     return lexicon.inspect(text, limit=limit)
 
