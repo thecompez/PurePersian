@@ -57,5 +57,19 @@ jobs:
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git commit -m "docs: regenerate Persian PDF from LaTeX sources"
-            git push
+            # Other agents may have advanced main while XeLaTeX ran.
+            # Refuse stale sources; never force-push the generated PDF.
+            for attempt in 1 2 3; do
+              git fetch origin main
+              if ! git diff --quiet "$GITHUB_SHA" origin/main -- persian.tex adverbs.tex; then
+                echo "LaTeX sources changed during build: not publishing a stale PDF"
+                exit 1
+              fi
+              git rebase origin/main
+              if git push origin HEAD:main; then
+                exit 0
+              fi
+            done
+            echo "Unable to synchronize PDF after three safe attempts"
+            exit 1
           fi
